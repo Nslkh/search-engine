@@ -1,5 +1,5 @@
 <?php
-	define("SITE_ADDR", "http://http://localhost/Narzullodev/MyProjects/search-engine/");
+	define("SITE_ADDR", "http://localhost/Narzullodev/MyProjects/search-engine/");
 	include("./include.php");
 	$site_title = 'Simple Search Engine ';
 ?>
